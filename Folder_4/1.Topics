@@ -12,3 +12,13 @@ Questions:
 08. Create a function that removes all HTML tags from a string. 
 09. Write a program to parse a date string and display it in a different format. 
 10. Write a script that finds all email addresses in a given text. 
+11. Write a program that counts the occurrence of each vowel in a paragraph. 
+12. Create a function that validates an email address format. 
+13. Write a script to check if a string is a valid URL. 
+14. Write a program that extracts all integers from a given text. 
+15. Create a script to find duplicate words in a paragraph. 
+16. Write a program that converts a sentence to Pig Latin. 
+17. Write a script that finds the longest sentence in a paragraph. 
+18. Write a Python program to read a file and display all lines that contain a given keyword. 
+19. Write a script to clean a text file by removing extra spaces and blank lines. 
+20. Write a Python program to count how many sentences are in a paragraph.
