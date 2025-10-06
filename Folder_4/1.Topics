@@ -22,3 +22,13 @@ Questions:
 18. Write a Python program to read a file and display all lines that contain a given keyword. 
 19. Write a script to clean a text file by removing extra spaces and blank lines. 
 20. Write a Python program to count how many sentences are in a paragraph.
+21. Write a Python program to check if a string has all unique characters. 
+22. Create a program that removes all duplicate characters from a string. 
+23. Write a script to count the frequency of each character in a string. 
+24. Write a program that accepts a sentence and calculates the number of upper and lower case letters. 
+25. Create a program to find the longest word in a sentence. 
+26. Write a program that takes a string and returns the string in reverse order without using [::-1]. 
+27. Create a Python function to check if a string is a pangram. 
+28. Write a Python script to sort words in a sentence alphabetically. 
+29. Write a program to check if two strings are anagrams. 
+30. Write a Python program to capitalize the first letter of each word in a sentence. 
