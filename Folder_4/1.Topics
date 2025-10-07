@@ -32,3 +32,13 @@ Questions:
 28. Write a Python script to sort words in a sentence alphabetically. 
 29. Write a program to check if two strings are anagrams. 
 30. Write a Python program to capitalize the first letter of each word in a sentence. 
+31. Create a program that extracts numbers from a string and returns their sum. 
+32. Write a program to replace all spaces in a string with underscores. 
+33. Write a function to count how many times a substring appears in a string. 
+34. Write a script to convert a string into title case without using .title(). 
+35. Write a Python program to merge two dictionaries into one. 
+36. Create a program to filter out all non-alphabetic characters from a string. 
+37. Write a function that returns True if a string ends with a given suffix. 
+38. Create a program that counts words, characters, and lines in a paragraph. 
+39. Write a script to encode a string using Caesar cipher (shift = 3). 
+40. Write a program that accepts a string and counts vowels and consonants. 
