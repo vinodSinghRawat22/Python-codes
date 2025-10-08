@@ -2,7 +2,6 @@
 
 
 def count(s, subS):
-    s2= s.split()
     count = 0 
     i = 0
     while i<= len(s) - len(subS): 
