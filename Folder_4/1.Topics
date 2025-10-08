@@ -12,6 +12,7 @@ Questions:
 08. Create a function that removes all HTML tags from a string. 
 09. Write a program to parse a date string and display it in a different format. 
 10. Write a script that finds all email addresses in a given text. 
+
 11. Write a program that counts the occurrence of each vowel in a paragraph. 
 12. Create a function that validates an email address format. 
 13. Write a script to check if a string is a valid URL. 
@@ -22,6 +23,7 @@ Questions:
 18. Write a Python program to read a file and display all lines that contain a given keyword. 
 19. Write a script to clean a text file by removing extra spaces and blank lines. 
 20. Write a Python program to count how many sentences are in a paragraph.
+
 21. Write a Python program to check if a string has all unique characters. 
 22. Create a program that removes all duplicate characters from a string. 
 23. Write a script to count the frequency of each character in a string. 
@@ -32,6 +34,7 @@ Questions:
 28. Write a Python script to sort words in a sentence alphabetically. 
 29. Write a program to check if two strings are anagrams. 
 30. Write a Python program to capitalize the first letter of each word in a sentence. 
+
 31. Create a program that extracts numbers from a string and returns their sum. 
 32. Write a program to replace all spaces in a string with underscores. 
 33. Write a function to count how many times a substring appears in a string. 
@@ -42,3 +45,14 @@ Questions:
 38. Create a program that counts words, characters, and lines in a paragraph. 
 39. Write a script to encode a string using Caesar cipher (shift = 3). 
 40. Write a program that accepts a string and counts vowels and consonants. 
+
+41. Create a script to convert binary string to decimal. 
+42. Write a program to count the number of words starting with a vowel in a string. 
+43. Create a script that takes a sentence and removes all stop words. 
+44. Write a Python program to split a sentence into words and reverse each word. 
+45. Write a function that returns a new string made of every third character of the original string. 
+46. Write a program to find all palindromic substrings in a string. 
+47. Write a function that compresses a string using run-length encoding. 
+48. Write a Python program to count the frequency of each word in a file. 
+49. Write a script that extracts hashtags from a tweet. 
+50. Write a function to remove punctuation from a string. 
