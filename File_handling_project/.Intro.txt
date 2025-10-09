@@ -1,0 +1,24 @@
+Introduction:
+This project is a simple File Management System developed in Python using the pathlib module. The primary purpose of this system is to allow users to perform basic file operations in an interactive and user-friendly way. Users can create, read, update, and delete files within the current working directory without manually navigating through the file system.
+
+Key features of the project include:
+
+File Creation: Users can create new files and write content into them.
+
+File Reading: Users can view the content of existing files.
+
+File Updating: Users can rename files, overwrite existing content, or append new data.
+
+File Deletion: Users can remove unwanted files from the directory.
+
+Directory Listing: Before performing any operation, the program lists all existing files and folders to help users identify available files.
+
+This project demonstrates practical applications of Python file handling concepts and the pathlib library. It helps in understanding file operations in an automated and structured manner, making file management efficient and error-free.
+
+Technologies Used:
+
+Python
+
+pathlib module for file and directory operations
+
+Overall, this project provides a hands-on experience in managing files programmatically, which is a fundamental skill for software development, scripting, and system automation.
