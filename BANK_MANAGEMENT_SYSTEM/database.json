@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Nandini Bisht ",
+    "age": 18,
+    "address": "Ramnagar, uttrakhand ",
+    "phoneNumber": "7667668888",
+    "emailAddress": "nandinibisht968@gmail.com",
+    "accountNumber": 9399880185,
+    "pin": "0000",
+    "balance": 99000.0,
+    "transaction": [
+      "Deposited \u20b9100000.0",
+      "Withdrawn \u20b91000.0"
+    ]
+  },
+  {
+    "name": "vinod Singh rawat",
+    "age": 19,
+    "address": "Awas vikas rudrapur ",
+    "phoneNumber": "7070707070",
+    "emailAddress": "rawatvinodsingh60@gmail.com",
+    "accountNumber": 5972819158,
+    "pin": "1212",
+    "balance": 98000000.0,
+    "transaction": [
+      "Deposited \u20b9100000000.0",
+      "Withdrawn \u20b92000000.0"
+    ]
+  },
+  {
+    "name": "Aayush rawat",
+    "age": 18,
+    "address": "Awas vikas RUDRAPUR",
+    "phoneNumber": "8445263456",
+    "emailAddress": "aayushrawat893@gmail.com",
+    "accountNumber": 6954906614,
+    "pin": "4455",
+    "balance": 99950050.0,
+    "transaction": [
+      "Deposited \u20b9100000050.0",
+      "Withdrawn \u20b950000.0"
+    ]
+  }
+]

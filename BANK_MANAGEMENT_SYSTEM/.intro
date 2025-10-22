@@ -1,0 +1,5 @@
+Bank Management System: A Console-Based Python Application
+I created a Bank Management System in Python that simulates real banking operations through a simple text interface. Users can create accounts, log in securely, deposit and withdraw money, check balances, update their profiles, and view transaction history.
+The project is built using object-oriented programming with a main Bank class that keeps everything organized and easy to maintain. Instead of using a complex database, I used JSON files to store all user data – account details, PINs, balances, and transaction records – so everything persists between sessions.
+I incorporated several Python features like the random library for generating unique account numbers, pathlib for safe file handling, and comprehensive error handling to manage invalid inputs gracefully. The system also uses encapsulation to protect sensitive data like PINs and balances.
+This project demonstrates practical applications of file handling, data persistence, user authentication, and OOP design principles in Python, all wrapped in an interactive banking experience.zz
