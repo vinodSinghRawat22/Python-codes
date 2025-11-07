@@ -1,2 +1,0 @@
-I love Python programming.
-Python is fun.

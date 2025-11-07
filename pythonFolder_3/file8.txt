@@ -1,6 +1,0 @@
-Python is a high-level, interpreted programming language known for its simplicity and readability.
-It was created by Guido van Rossum and released in 1991, with the philosophy of making code more understandable and beginner-friendly.
-Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
-It has a large standard library and countless third-party modules, which makes it powerful for web development, data science, artificial intelligence, automation, and more.
-The language uses indentation instead of curly braces, which enforces clean and structured code.
-Because of its versatility, Python has become one of the most popular programming languages in the world today.
